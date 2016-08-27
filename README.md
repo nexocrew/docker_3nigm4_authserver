@@ -1,9 +1,9 @@
 # Supported tags and respective `Dockerfile` links
 
--	[`0.1.0_alpha`, `latest` (*0.1/Dockerfile*)](https://github.com/nexocrew/docker_3nigm4_authserver/0.1/Dockerfile)
+-	[`0.1.0_beta`, `latest` (*0.1/Dockerfile*)](https://github.com/nexocrew/docker_3nigm4_authserver/0.1/Dockerfile)
 
 # What is 3nigm4 Authentication Server?
-Official 3nigm4 Authentication Server image implements a RPC frontend to manage user authentication in 3nigm4. It's one of the internal microservices composing the 3nigm4 framewrok.
+Official 3nigm4 Authentication Server image implements a RPC frontend to manage user authentication in 3nigm4. It's one of the internal microservices composing the 3nigm4 framework.
 
 This component is intended for behind firewall usage (private network) to provide authentication service to frontend components (3nigm4 APIs), do not expose it directly in the internet it can be subject to security issues.
 
